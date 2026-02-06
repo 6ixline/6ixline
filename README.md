@@ -100,7 +100,14 @@ From backend architecture to cloud infrastructure, I focus on **performance, sec
 
 ## 📊 system.stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=6ixline&show_icons=true&hide_border=true) ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=6ixline&layout=compact&hide_border=true) ![GitHub Streak](https://streak-stats.demolab.com/?user=6ixline&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=6ixline&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=6ixline&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=6ixline&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
