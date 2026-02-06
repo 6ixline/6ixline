@@ -102,11 +102,7 @@ From backend architecture to cloud infrastructure, I focus on **performance, sec
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=6ixline&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=6ixline&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=6ixline&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=6ixline&show_icons=true&hide_border=true) ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=6ixline&layout=compact&hide_border=true) ![GitHub Streak](https://streak-stats.demolab.com/?user=6ixline&hide_border=true)
 
 ---
 
