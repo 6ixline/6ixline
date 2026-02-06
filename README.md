@@ -26,7 +26,7 @@ Scalable backend systems • Cloud deployment • Clean architecture
 ## 🧩 system.profile
 
 I design, build, and scale **production-grade web & mobile applications**.  
-From backend architecture to cloud infrastructure, I focus on **performance, security, and maintainability** — real systems used by real users.
+From backend architecture to cloud infrastructure, I focus on **performance, security, and maintainability** - real systems used by real users.
 
 ---
 
@@ -47,7 +47,7 @@ From backend architecture to cloud infrastructure, I focus on **performance, sec
 
 ### **Senior Software Developer**  
 **TechQuench Solution Pvt. Ltd. | Delhi**  
-`Dec 2021 – Present`
+`Dec 2021 - Present`
 
 - Delivered **70+ scalable production systems** across ERP, HRM, eCommerce, MLM & mobile apps.
 - Built secure, high-performance **RESTful APIs** and payment gateway integrations.
@@ -59,7 +59,7 @@ From backend architecture to cloud infrastructure, I focus on **performance, sec
 
 ### **Software Development Engineer (Full Stack)**  
 **Divine Web Solution | Delhi**  
-`May 2020 – Nov 2021`
+`May 2020 - Nov 2021`
 
 - Developed full-stack applications using **Laravel, MERN & React Native**.
 - Improved performance and scalability by **30%**.
@@ -70,7 +70,7 @@ From backend architecture to cloud infrastructure, I focus on **performance, sec
 
 ### **Software Developer Intern**  
 **Divine Web Solution | Delhi**  
-`Dec 2020 – May 2021`
+`Dec 2020 - May 2021`
 
 - Built responsive, mobile-first web interfaces.
 - Reduced page load times by **30%**.
@@ -80,7 +80,7 @@ From backend architecture to cloud infrastructure, I focus on **performance, sec
 
 ## 🚀 production.systems
 
-### **RS Man Power – HRM Software**
+### **RS Man Power - HRM Software**
 🔗 https://mswork.in/
 
 - Integrated Aadhaar & bank verification APIs.
