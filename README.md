@@ -1,93 +1,122 @@
-# Hi 👋 I'm a Senior Full Stack Developer
+<h1 align="center">👋 Hi, I'm a Senior Full Stack Developer</h1>
+<h3 align="center">Building scalable systems that survive real traffic 🚀</h3>
 
-🚀 4+ years of experience building **scalable web & mobile applications**  
-🏗️ Delivered **70+ production-ready projects** (ERP, HRM, MLM, eCommerce, Mobile Apps)  
-☁️ Strong in **backend architecture, cloud deployment, and performance optimization**
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Languages
-PHP • JavaScript • TypeScript • SQL
-
-### ⚙️ Frameworks & Libraries
-Laravel • Node.js • Express.js  
-React.js • React Native • Redux
-
-### 🗄️ Databases
-MySQL • MongoDB
-
-### ☁️ Cloud & DevOps
-AWS (EC2) • WHM • cPanel  
-Apache • Ubuntu • Git & GitHub
-
-### 🌐 Other Skills
-HTML • CSS  
-RESTful APIs  
-Payment Gateway Integrations  
-Data Structures & Algorithms  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Full+Stack+Developer;Laravel+%7C+Node+%7C+React+Native;70%2B+Production+Applications;Backend+%7C+APIs+%7C+Cloud&center=true&width=650&height=45" />
+</p>
 
 ---
 
-## 🏢 Experience
+```bash
+$ whoami
+Senior Full Stack Developer
+
+$ experience --years
+4+
+
+$ projects --delivered
+70+ (ERP, HRM, eCommerce, MLM, Mobile Apps)
+
+$ current_focus
+Scalable backend systems • Cloud deployment • Clean architecture
+```
+
+---
+
+## 🧩 system.profile
+
+I design, build, and scale **production-grade web & mobile applications**.  
+From backend architecture to cloud infrastructure, I focus on **performance, security, and maintainability** — real systems used by real users.
+
+---
+
+## ⚙️ system.stack
+
+| Area | Technologies |
+|------|-------------|
+| **Languages** | PHP, JavaScript, TypeScript, SQL |
+| **Backend** | Laravel, Node.js, Express.js |
+| **Frontend** | React.js, React Native, Redux |
+| **Databases** | MySQL, MongoDB |
+| **Cloud & DevOps** | AWS (EC2), Apache, Ubuntu, WHM, cPanel |
+| **Core Skills** | REST APIs, Payment Gateways, DSA, System Design |
+
+---
+
+## 🏢 system.experience
 
 ### **Senior Software Developer**  
 **TechQuench Solution Pvt. Ltd. | Delhi**  
-🗓 Dec 2021 – Present
+`Dec 2021 – Present`
 
-- Delivered **70+ scalable applications** including ERP, HRM, eCommerce, MLM & mobile apps.
-- Built secure **RESTful APIs** and integrated multiple payment gateways.
-- Managed cloud servers using **AWS EC2**, Apache & Ubuntu.
-- Led development teams, task planning, and ensured on-time delivery.
-- Optimized performance, security, and long-term maintainability of applications.
+- Delivered **70+ scalable production systems** across ERP, HRM, eCommerce, MLM & mobile apps.
+- Built secure, high-performance **RESTful APIs** and payment gateway integrations.
+- Managed deployments and infrastructure using **AWS EC2 & Linux servers**.
+- Led teams, planned tasks, and ensured on-time delivery.
+- Optimized applications for performance, security, and long-term stability.
 
 ---
 
 ### **Software Development Engineer (Full Stack)**  
 **Divine Web Solution | Delhi**  
-🗓 May 2020 – Nov 2021
+`May 2020 – Nov 2021`
 
-- Developed full-stack systems using **Laravel, MERN stack & React Native**.
-- Improved application performance and scalability by **30%**.
-- Optimized databases (MySQL & MongoDB), reducing security issues by **25%**.
-- Designed mobile-first UIs, increasing user engagement by **40%**.
+- Developed full-stack applications using **Laravel, MERN & React Native**.
+- Improved performance and scalability by **30%**.
+- Optimized MySQL & MongoDB schemas, reducing vulnerabilities by **25%**.
+- Built mobile-first UIs, increasing user engagement by **40%**.
 
 ---
 
 ### **Software Developer Intern**  
 **Divine Web Solution | Delhi**  
-🗓 Dec 2020 – May 2021
+`Dec 2020 – May 2021`
 
-- Built responsive, mobile-first interfaces using HTML, CSS & JavaScript.
-- Reduced page load time by **30%** via UI optimization.
-- Ensured cross-browser compatibility and accessibility standards.
+- Built responsive, mobile-first web interfaces.
+- Reduced page load times by **30%**.
+- Ensured cross-browser compatibility and accessibility.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 production.systems
 
 ### **RS Man Power – HRM Software**
 🔗 https://mswork.in/
 
-- Integrated **Aadhaar & bank verification APIs** for secure employee onboarding.
-- Developed **Attendance & Salary Management** with multi-role access.
-- Built automated **PDF & Excel report generation**, reducing admin work by **40%**.
+- Integrated Aadhaar & bank verification APIs.
+- Attendance & salary management with role-based access.
+- Automated PDF & Excel report generation, reducing admin work by **40%**.
 
 ---
 
-## 🎓 Education
+## 🧠 engineering.principles
 
-- **Scaler (2024)** – Software Development & Problem Solving  
-- **BCA (2019)** – IGNOU  
-- **12th (PCMB – 81%)**  
-- **10th (9.2 CGPA)**  
+- Scalability > Shortcuts  
+- Readability > Clever code  
+- Security is mandatory  
+- Production experience > Toy projects  
 
 ---
 
-## 📫 Connect With Me
+## 📊 system.stats
 
-- 💼 Open to Full-time / Contract / Freelance opportunities
-- ⚡ Passionate about clean architecture & scalable systems
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-⭐ If you find my work useful, consider starring my repositories!
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 connect.init
+
+- 💼 Open to Full-time, Contract & Freelance opportunities  
+- ⚡ Always learning, always shipping  
+
+⭐ If you like this profile, feel free to star a repository.
