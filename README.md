@@ -78,17 +78,6 @@ From backend architecture to cloud infrastructure, I focus on **performance, sec
 
 ---
 
-## 🚀 production.systems
-
-### **RS Man Power - HRM Software**
-🔗 https://mswork.in/
-
-- Integrated Aadhaar & bank verification APIs.
-- Attendance & salary management with role-based access.
-- Automated PDF & Excel report generation, reducing admin work by **40%**.
-
----
-
 ## 🧠 engineering.principles
 
 - Scalability > Shortcuts  
