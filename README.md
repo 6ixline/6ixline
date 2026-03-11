@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm a Senior Full Stack Developer</h1>
+<h1 align="center">👋 Hi, I'm Sorabh - Senior Full Stack Developer</h1>
 <h3 align="center">Building scalable systems that survive real traffic 🚀</h3>
 
 <p align="center">
