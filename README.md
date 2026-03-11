@@ -61,7 +61,7 @@ From backend architecture to cloud infrastructure, I focus on **performance, sec
 **Divine Web Solution | Delhi**  
 `May 2020 - Nov 2021`
 
-- Developed full-stack applications using **Laravel, MERN & React Native**.
+- Developed full-stack applications using **PHP, MERN**.
 - Improved performance and scalability by **30%**.
 - Optimized MySQL & MongoDB schemas, reducing vulnerabilities by **25%**.
 - Built mobile-first UIs, increasing user engagement by **40%**.
