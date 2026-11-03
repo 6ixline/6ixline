@@ -1,18 +1,18 @@
-<h1 align="center">👋 Hi, I'm Sorabh - Senior Full Stack Developer</h1>
+<h1 align="center">👋 Hi, I'm Sorabh - Full Stack Developer</h1>
 <h3 align="center">Building scalable systems that survive real traffic 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Full+Stack+Developer;Laravel+%7C+Node+%7C+React+Native;70%2B+Production+Applications;Backend+%7C+APIs+%7C+Cloud&center=true&width=650&height=45&color=0BDA47" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Laravel+%7C+Node+%7C+React+Native;70%2B+Production+Applications;Backend+%7C+APIs+%7C+Cloud&center=true&width=650&height=45&color=0BDA47" />
 </p>
 
 ---
 
 ```bash
 $ whoami
-Senior Full Stack Developer
+Full Stack Developer
 
 $ experience --years
-4+
+5+
 
 $ projects --delivered
 70+ (ERP, HRM, eCommerce, MLM, Mobile Apps)
